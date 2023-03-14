@@ -1,6 +1,6 @@
 let elem = document.querySelector('#elem');
 
-elem.addEventListener('click', func);
+elem.addEventListener('click', func);  
 elem.addEventListener('dblclick', func);
 
 function func() {

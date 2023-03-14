@@ -12,4 +12,4 @@ elem.addEventListener('click', function(event) {
 	if (event.shiftKey) {
 		console.log('нажат Shift'+1);
 	}
-});
+});  
